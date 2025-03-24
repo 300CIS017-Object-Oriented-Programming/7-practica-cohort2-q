@@ -9,17 +9,17 @@ void Tienda::agregarCliente(int id, const string& nombre) {
 
 }
 bool Tienda::realizarVenta(const string& codigo, int cantidad) {
-    for (Producto* p : productos) {  // Suponiendo que productos es un vector<Producto*>
+    for (Producto* p : productos) {
         if (p->getCodigo() == codigo) {
             if (p->getStock() >= cantidad) {
                 p->reducirStock(cantidad);  // Método que reduce el stock
                 return true;
             } else {
-                return false;  // No hay suficiente stock
+                return false;
             }
         }
     }
-    return false;  // Producto no encontrado
+    return false;
 }
 
 
