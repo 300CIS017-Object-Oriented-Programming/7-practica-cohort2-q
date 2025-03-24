@@ -1,0 +1,9 @@
+# ninja log v6
+69	904	7644813117319059	CMakeFiles/taller_1.dir/producto.cpp.obj	209a2c21f59047c1
+80	922	7644813117425036	CMakeFiles/taller_1.dir/cliente.cpp.obj	9f36ce49c03665f7
+5	941	7644813116682870	CMakeFiles/taller_1.dir/main.cpp.obj	5a0490b6b7bc4f09
+137	1023	7644813117996665	CMakeFiles/taller_1.dir/venta.cpp.obj	4d9a0a9a91cc0610
+58	1068	7644813117205126	CMakeFiles/taller_1.dir/tienda.cpp.obj	15056facbaf80775
+1069	1590	7644813127316313	taller_1.exe	bebd6e4e665ee1e4
+8	799	7644813642298288	CMakeFiles/taller_1.dir/main.cpp.obj	5a0490b6b7bc4f09
+801	1311	7644813650220218	taller_1.exe	bebd6e4e665ee1e4
